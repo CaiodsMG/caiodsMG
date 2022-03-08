@@ -1,5 +1,10 @@
 ## Bem-vindo(a) ao meu perfil! 😁
 
+- 👋 Olá, eu sou Caio Guilherme 
+- 👩🏽‍💻 Futuro FullStack
+- 📚 Study HTML / CSS3 / HTML5 / Java
+- ☕ Adoro jogar e ver filmes!
+
  <div>
   <a href="https://github.com/CaiodsMG">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaiodsMG&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
