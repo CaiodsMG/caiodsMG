@@ -2,7 +2,7 @@
 
 - 👋 Olá, eu sou Caio Guilherme 
 - 👩🏽‍💻 Futuro FullStack
-- 📚 Estudando JS / CSS3 / HTML5 / Java
+- 📚 Estudando Python / CSS3 / HTML5
 - ☕ Adoro jogar e ver filmes!
 
  <div>
