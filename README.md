@@ -5,11 +5,6 @@
 - 🚀 Construindo projetos para evoluir como Java Developer.
 - ☕ Adoro jogar e ver filmes!
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CaiodsMG&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiodsMG&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-
 ---
 
 ## 👩🏽‍💻 Tecnologias
